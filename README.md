@@ -1,6 +1,6 @@
-# Meteora DBC Bagsapp Bundler
+# Stealth PumpFun Bundler
 
-> Atomic Jito-bundled pool creation + multi-wallet buy snipe on Meteora Dynamic Bonding Curves — all in a single bundle.
+> Atomic Jito-bundled pool creation + multi-wallet buy snipe on PumpFun — all in a single bundle.
 
 ---
 
